@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690939263671",
+    "project_id": "teamdcj-15d99",
+    "storage_bucket": "teamdcj-15d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690939263671:android:cceb77c4e320ca2c91ab32",
+        "android_client_info": {
+          "package_name": "com.example.teamdcj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZ8OOTnJsPtCtJuEwSkySEpmIFFqtlQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
